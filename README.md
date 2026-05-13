@@ -13,7 +13,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador de software apasionado po
 - 📚 Aprendizaje continuo y adaptación a nuevas tecnologías
 - 🤝 Experiencia en trabajo colaborativo con metodologías Agile/Scrum
 - 🌍 Multilingüe: Español (Nativo) | Inglés (B1) | Portugués (B2)
-- > 🏀 Soy un apasionado del básquet.
+- 🏀 Soy un apasionado del básquet.
 
 ---
 
