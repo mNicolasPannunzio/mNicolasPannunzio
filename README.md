@@ -8,8 +8,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador de software apasionado po
 
 ## 🎯 Acerca de Mí
 
-- 💻 Desarrollador Full Stack con experiencia en múltiples tecnologías
-- 🚀 Especializado en desarrollo web backend y frontend
+- 💻 Desarrollador Full Stack
 - 📚 Aprendizaje continuo y adaptación a nuevas tecnologías
 - 🤝 Experiencia en trabajo colaborativo con metodologías Agile/Scrum
 - 🌍 Multilingüe: Español (Nativo) | Inglés (B1) | Portugués (B2)
@@ -61,9 +60,9 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador de software apasionado po
 
 <div align="center">
   
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mNicolasPannunzio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/mNicolasPannunzio)
+[[Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mNicolasPannunzio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/mNicolasPannunzio)
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=mNicolasPannunzio&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/mNicolasPannunzio)
+[[Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=mNicolasPannunzio&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/mNicolasPannunzio)
 
 </div>
 
@@ -72,17 +71,12 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador de software apasionado po
 ## 🌟 Destacados
 
 ### Habilidades Principales
-- ✅ Desarrollo Web Full Stack (Frontend & Backend)
+- ✅ Desarrollo Full Stack (Frontend & Backend)
 - ✅ Diseño de Bases de Datos
 - ✅ Metodologías Ágiles (Scrum)
 - ✅ Versionado con Git
 - ✅ Trabajo en Equipo
-
-### Especializaciones
-- **Backend:** Arquitectura de aplicaciones, APIs REST, bases de datos
-- **Frontend:** Interfaces responsivas, experiencia de usuario
-- **DevOps:** Git, control de versiones, flujos de trabajo
-
+  
 ---
 
 ## 💬 Contacto y Redes
