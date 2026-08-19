@@ -59,11 +59,11 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador de software apasionado po
 ## 📊 Mis Estadísticas de GitHub
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mNicolasPannunzio&show_icons=true&theme=tokyonight&hide_border=true&title_color=2F80ED" alt="Estadísticas de GitHub" />
   
-[[Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mNicolasPannunzio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/mNicolasPannunzio)
-
-[[Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=mNicolasPannunzio&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/mNicolasPannunzio)
-
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mNicolasPannunzio&layout=compact&theme=tokyonight&hide_border=true&title_color=2F80ED" alt="Lenguajes más usados" />
 </div>
 
 ---
