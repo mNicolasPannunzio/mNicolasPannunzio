@@ -2,7 +2,7 @@
 
 **Desarrollador de Software | Full Stack | Agile & Scrum**
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador de software apasionado por crear soluciones eficientes y escalables, con experiencia trabajando en diversos lenguajes y metodologías ágiles.
+Bienvenido a mi perfil de GitHub. Soy un desarrollador de software, con experiencia trabajando en diversos lenguajes y metodologías ágiles.
 
 ---
 
@@ -11,7 +11,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador de software apasionado po
 - 💻 Desarrollador Full Stack
 - 📚 Aprendizaje continuo y adaptación a nuevas tecnologías
 - 🤝 Experiencia en trabajo colaborativo con metodologías Agile/Scrum
-- 🌍 Multilingüe: Español (Nativo) | Inglés (B1) |
+- 🌍 Idiomas: Español (Nativo) | Inglés (B1) |
 - 🏀 Soy un apasionado del básquet.
 
 ---
@@ -21,7 +21,6 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador de software apasionado po
 ### 💻 Lenguajes de Programación
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C#">
